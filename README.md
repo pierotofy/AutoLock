@@ -1,4 +1,4 @@
-== AutoLock
+## AutoLock
 
 Want to remotely / automatically lock your Windows screen? AutoLock exposes a REST endpoint to trigger a screen lock (from your phone, from home automation systems, etc.).
 
@@ -13,14 +13,14 @@ You can also launch the application with:
  --token,-t Set a token that needs to be passed via query string to the URL for authentication
  ```
 
-== Downloads
+## Downloads
 
 https://github.com/pierotofy/AutoLock/releases
 
-== Contributions
+## Contributions
 
 Contributions welcome! Just open a PR.
 
-== License
+## License
 
 GPL 3.0
